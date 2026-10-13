@@ -1,5 +1,7 @@
 # mastra
 
+## 1.34.1-alpha.3
+
 ## 1.34.1-alpha.2
 
 ### Patch Changes
